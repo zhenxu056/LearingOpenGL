@@ -1,0 +1,4 @@
+platform :ios, ‘8.0’
+target 'GUPImageTest' do  
+	pod 'GPUImage', '~> 0.1.7'
+end
